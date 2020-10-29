@@ -1,0 +1,13 @@
+C:\Users\kolia\source\repos\sharpL2\bin\Debug\netcoreapp3.1\sharpL2.exe
+C:\Users\kolia\source\repos\sharpL2\bin\Debug\netcoreapp3.1\sharpL2.deps.json
+C:\Users\kolia\source\repos\sharpL2\bin\Debug\netcoreapp3.1\sharpL2.runtimeconfig.json
+C:\Users\kolia\source\repos\sharpL2\bin\Debug\netcoreapp3.1\sharpL2.runtimeconfig.dev.json
+C:\Users\kolia\source\repos\sharpL2\bin\Debug\netcoreapp3.1\sharpL2.dll
+C:\Users\kolia\source\repos\sharpL2\bin\Debug\netcoreapp3.1\sharpL2.pdb
+C:\Users\kolia\source\repos\sharpL2\obj\Debug\netcoreapp3.1\sharpL2.csprojAssemblyReference.cache
+C:\Users\kolia\source\repos\sharpL2\obj\Debug\netcoreapp3.1\sharpL2.AssemblyInfoInputs.cache
+C:\Users\kolia\source\repos\sharpL2\obj\Debug\netcoreapp3.1\sharpL2.AssemblyInfo.cs
+C:\Users\kolia\source\repos\sharpL2\obj\Debug\netcoreapp3.1\sharpL2.csproj.CoreCompileInputs.cache
+C:\Users\kolia\source\repos\sharpL2\obj\Debug\netcoreapp3.1\sharpL2.dll
+C:\Users\kolia\source\repos\sharpL2\obj\Debug\netcoreapp3.1\sharpL2.pdb
+C:\Users\kolia\source\repos\sharpL2\obj\Debug\netcoreapp3.1\sharpL2.genruntimeconfig.cache
