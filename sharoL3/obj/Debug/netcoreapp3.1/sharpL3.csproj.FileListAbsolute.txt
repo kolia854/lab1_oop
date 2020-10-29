@@ -1,0 +1,13 @@
+C:\Users\kolia\source\repos\sharoL3\obj\Debug\netcoreapp3.1\sharpL3.csprojAssemblyReference.cache
+C:\Users\kolia\source\repos\sharoL3\obj\Debug\netcoreapp3.1\sharpL3.AssemblyInfoInputs.cache
+C:\Users\kolia\source\repos\sharoL3\obj\Debug\netcoreapp3.1\sharpL3.AssemblyInfo.cs
+C:\Users\kolia\source\repos\sharoL3\obj\Debug\netcoreapp3.1\sharpL3.csproj.CoreCompileInputs.cache
+C:\Users\kolia\source\repos\sharoL3\bin\Debug\netcoreapp3.1\sharpL3.exe
+C:\Users\kolia\source\repos\sharoL3\bin\Debug\netcoreapp3.1\sharpL3.deps.json
+C:\Users\kolia\source\repos\sharoL3\bin\Debug\netcoreapp3.1\sharpL3.runtimeconfig.json
+C:\Users\kolia\source\repos\sharoL3\bin\Debug\netcoreapp3.1\sharpL3.runtimeconfig.dev.json
+C:\Users\kolia\source\repos\sharoL3\bin\Debug\netcoreapp3.1\sharpL3.dll
+C:\Users\kolia\source\repos\sharoL3\bin\Debug\netcoreapp3.1\sharpL3.pdb
+C:\Users\kolia\source\repos\sharoL3\obj\Debug\netcoreapp3.1\sharpL3.dll
+C:\Users\kolia\source\repos\sharoL3\obj\Debug\netcoreapp3.1\sharpL3.pdb
+C:\Users\kolia\source\repos\sharoL3\obj\Debug\netcoreapp3.1\sharpL3.genruntimeconfig.cache
